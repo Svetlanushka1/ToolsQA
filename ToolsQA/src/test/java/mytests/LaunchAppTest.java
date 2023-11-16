@@ -9,7 +9,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.concurrent.TimeUnit;
 
-public class LaunchApp {
+public class LaunchAppTest {
     WebDriver wd;
     String browser;
     @Test
