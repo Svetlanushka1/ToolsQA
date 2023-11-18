@@ -22,7 +22,6 @@ ____
 or method. The prefix “@” is used for annotations. TestNG uses annotations,
 to help create a robust test structure.<br>
 
-![hierarchy-of-testng-annotations.jpg](src%2Fhierarchy-of-testng-annotations.jpg)
 * __<span style="color:red">@BeforeSuite</span>__: the annotated method will be run before
 all tests in this suite have been run.
 * __<span style="color:red">@AfterSuite</span>__: the annotated method will run eventually
@@ -51,7 +50,8 @@ last test method belonging to any of these groups.
 ___
 * TestNG Attributes
 
-![testng-annotation-attributes.png](src%2Ftestng-annotation-attributes.png)
+![image](https://github.com/Svetlanushka1/ToolsQA/assets/112639604/a74361c9-6c18-4ed9-9c71-967f0b915f17)
+
 
 * __<span style="color:red">description</span>__: You can specify a description of the test method.
 <br> For example, @Test(description=”this test tests login”). <hr>
@@ -195,7 +195,8 @@ build->reports->tests->reg->index.html
 
 BinarySearch Algorithm
 
-![BinarySearch Algorithm](src%2F1_0OJ3eF9eO3FlPl5A_RtCSw.png)
+![image](https://github.com/Svetlanushka1/ToolsQA/assets/112639604/dda87077-061f-4985-80f8-0d66c04114be)
+
 ```java
 public class BinarySearch {
     public int binarySearch(int[] arr, int x)
